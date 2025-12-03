@@ -1,17 +1,12 @@
-
 Homely-hub-project
 
-Code
-Issues
+Code Issues
 Pull requests
-Homely-hub-project
-/homelyhub-main/
-author
-Abinaya N
+Homely-hub-project/homelyhub-main/
+author Abinaya N
 25 minutes ago
-Homely-hub-project
-/homelyhub-main/
-Name	Last commit date
+Homely-hub-project/homelyhub-main/Name	
+Last commit date
 ..
 Frontend
 25 minutes ago
@@ -22,6 +17,7 @@ backend
 README.md
 25 minutes ago
 README.md
+
 🏡 HomelyHub – Smart Property Rental Platform
 HomelyHub is a full-stack web application designed to simplify the process of renting and managing properties.
 It provides users with seamless login, property listing, image uploads, and booking functionalities — all powered by MERN Stack (MongoDB, Express, React, Node.js) and ImageKit for media management.
@@ -42,6 +38,7 @@ Integrated booking management dashboard
 🖥️ Admin/Owner Side
 Create and edit property listings
 View bookings made by users
+
 ⚙️ Tech Stack
 Layer	Technology
 Frontend	React.js + Vite + Tailwind CSS
@@ -50,6 +47,7 @@ Database	MongoDB Atlas
 Media Storage	ImageKit.io
 Authentication	JWT & Cookies
 Hosting	Vercel (Frontend), Render / Localhost (Backend)
+
 🧩 Folder Structure
 homelyhub-main/ ├── frontend/ # React frontend (Vite) │ ├── src/ │ └── package.json │ ├── backend/ # Node.js backend (Express) │ ├── src/ │ │ ├── models/ │ │ ├── routes/ │ │ ├── controllers/ │ │ └── utils/ │ └── package.json │ └── README.md
 
@@ -73,12 +71,14 @@ JWT_SECRET=your_secret_key
 IMAGEKIT_PUBLIC_KEY=your_public_key
 IMAGEKIT_PRIVATE_KEY=your_private_key
 IMAGEKIT_URL_ENDPOINT=https://ik.imagekit.io/your_imagekit_id/
+
 🛠️ Setup & Installation
 1️⃣ Clone the repository
 bash
 Copy code
 git clone https://github.com/abidraza-17/homelyhub.git
 cd homelyhub-main
+
 2️⃣ Backend Setup
 bash
 Copy code
@@ -118,10 +118,10 @@ Database: MongoDB Atlas
 Media Storage: ImageKit.io
 
 🧑‍💻 Author
-Mohammad Abid Raza
-📧 [abidrazaf3@gmail..com]
-💼 linkedin.com/in/mohammadabidraza
-🌍 github.com/abidraza-17
+Abinaya N
+📧 Email : abinayaqw031@hmail.com
+💼 LinklinkedIn: https://www.linkedin.com/in/abinaya-n-b06954375?utm_source=share_via&utm_content=profile&utm_medium=member_android
+🌍 Github : https://github.com/abinaya-345
 
 📝 License
 This project is licensed under the MIT License — free to use and modif
