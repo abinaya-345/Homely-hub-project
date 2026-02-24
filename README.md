@@ -77,6 +77,7 @@ IMAGEKIT_PRIVATE_KEY=your_private_key
 IMAGEKIT_URL_ENDPOINT=https://ik.imagekit.io/your_imagekit_id/
 
 🛠️ Setup & Installation
+
 1️⃣ Clone the repository
 bash
 Copy code
