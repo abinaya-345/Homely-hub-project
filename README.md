@@ -1,4 +1,4 @@
-Homely-hub-project
+#Homely-hub-project
 
 Code Issues
 Pull requests
@@ -18,28 +18,32 @@ README.md
 25 minutes ago
 README.md
 
-🏡 HomelyHub – Smart Property Rental Platform
+##🏡 HomelyHub – Smart Property Rental Platform
 HomelyHub is a full-stack web application designed to simplify the process of renting and managing properties.
 It provides users with seamless login, property listing, image uploads, and booking functionalities — all powered by MERN Stack (MongoDB, Express, React, Node.js) and ImageKit for media management.
 
-🚀 Features
-👤 User Module
+##🚀 Features
+
+##👤 User Module
 Register and log in securely (JWT-based authentication)
 Manage personal profile
 View and manage bookings
-🏠 Property Module
+
+##🏠 Property Module
 Add and manage property listings with detailed information
 Upload property images using ImageKit.io
 Filter properties by location, price, and amenities
-💳 Booking & Payments
+
+##💳 Booking & Payments
 View property details and availability
 Book accommodations with date-based options
 Integrated booking management dashboard
-🖥️ Admin/Owner Side
+
+##🖥️ Admin/Owner Side
 Create and edit property listings
 View bookings made by users
 
-⚙️ Tech Stack
+##⚙️ Tech Stack
 Layer	Technology
 Frontend	React.js + Vite + Tailwind CSS
 Backend	Node.js + Express.js
@@ -48,26 +52,26 @@ Media Storage	ImageKit.io
 Authentication	JWT & Cookies
 Hosting	Vercel (Frontend), Render / Localhost (Backend)
 
-🧩 Folder Structure
+##🧩 Folder Structure
 homelyhub-main/ ├── frontend/ # React frontend (Vite) │ ├── src/ │ └── package.json │ ├── backend/ # Node.js backend (Express) │ ├── src/ │ │ ├── models/ │ │ ├── routes/ │ │ ├── controllers/ │ │ └── utils/ │ └── package.json │ └── README.md
 
 yaml Copy code
 
-🔑 Environment Variables
+##🔑 Environment Variables
 Create a .env file in your /backend folder and include:
 
-# Server
+##Server
 PORT=5000
 NODE_ENV=development
 CLIENT_URL=http://localhost:5173
 
-# MongoDB
+##MongoDB
 MONGO_URI=your_mongodb_connection_string
 
-# JWT
+##JWT
 JWT_SECRET=your_secret_key
 
-# ImageKit
+##ImageKit
 IMAGEKIT_PUBLIC_KEY=your_public_key
 IMAGEKIT_PRIVATE_KEY=your_private_key
 IMAGEKIT_URL_ENDPOINT=https://ik.imagekit.io/your_imagekit_id/
@@ -119,8 +123,11 @@ Media Storage: ImageKit.io
 
 🧑‍💻 Author
 Abinaya N
+
 📧 Email : abinayaqw031@hmail.com
+
 💼 LinklinkedIn: https://www.linkedin.com/in/abinaya-n-b06954375?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
 🌍 Github : https://github.com/abinaya-345
 
 📝 License
